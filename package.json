@@ -1,0 +1,9 @@
+{
+  "name": "custom-time-picker",
+  "version": "1.0.0",
+  "description": "Custom Time Picker, to avoid default browsers behaviour",
+  "main": "index.js",
+  "author": "SajawalAly",
+  "license": "MIT",
+  "private": false
+}
